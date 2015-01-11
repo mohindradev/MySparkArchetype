@@ -1,0 +1,14 @@
+#set( $symbol_pound = '#' )
+#set( $symbol_dollar = '$' )
+#set( $symbol_escape = '\' )
+<component name="libraryTable">
+  <library name="SBT: net.java.dev.jets3t:jets3t:0.7.1:jar">
+    <CLASSES>
+      <root url="jar://${symbol_dollar}USER_HOME${symbol_dollar}/.ivy2/cache/net.java.dev.jets3t/jets3t/jars/jets3t-0.7.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://${symbol_dollar}USER_HOME${symbol_dollar}/.ivy2/cache/net.java.dev.jets3t/jets3t/srcs/jets3t-0.7.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

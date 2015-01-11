@@ -1,0 +1,12 @@
+#set( $symbol_pound = '#' )
+#set( $symbol_dollar = '$' )
+#set( $symbol_escape = '\' )
+<component name="libraryTable">
+  <library name="SBT: xmlenc:xmlenc:0.52:jar">
+    <CLASSES>
+      <root url="jar://${symbol_dollar}USER_HOME${symbol_dollar}/.ivy2/cache/xmlenc/xmlenc/jars/xmlenc-0.52.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

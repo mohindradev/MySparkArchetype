@@ -7,10 +7,12 @@ package ${package};
  * Created by dev on 1/11/15.
  */
 public class HelloApp {
+
     public static void main(String [] arg){
         System.out.println("hello");
     }
     public void test(){
         System.out.println("hello tester");
     }
+
 }

@@ -1,0 +1,14 @@
+#set( $symbol_pound = '#' )
+#set( $symbol_dollar = '$' )
+#set( $symbol_escape = '\' )
+<component name="libraryTable">
+  <library name="SBT: aopalliance:aopalliance:1.0:jar">
+    <CLASSES>
+      <root url="jar://${symbol_dollar}USER_HOME${symbol_dollar}/.ivy2/cache/aopalliance/aopalliance/jars/aopalliance-1.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://${symbol_dollar}USER_HOME${symbol_dollar}/.ivy2/cache/aopalliance/aopalliance/srcs/aopalliance-1.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

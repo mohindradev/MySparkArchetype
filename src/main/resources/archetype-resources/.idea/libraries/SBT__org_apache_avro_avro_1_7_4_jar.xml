@@ -1,0 +1,16 @@
+#set( $symbol_pound = '#' )
+#set( $symbol_dollar = '$' )
+#set( $symbol_escape = '\' )
+<component name="libraryTable">
+  <library name="SBT: org.apache.avro:avro:1.7.4:jar">
+    <CLASSES>
+      <root url="jar://${symbol_dollar}USER_HOME${symbol_dollar}/.ivy2/cache/org.apache.avro/avro/jars/avro-1.7.4.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://${symbol_dollar}USER_HOME${symbol_dollar}/.ivy2/cache/org.apache.avro/avro/docs/avro-1.7.4-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://${symbol_dollar}USER_HOME${symbol_dollar}/.ivy2/cache/org.apache.avro/avro/srcs/avro-1.7.4-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

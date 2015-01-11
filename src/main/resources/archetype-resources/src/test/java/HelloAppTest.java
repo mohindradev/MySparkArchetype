@@ -13,4 +13,9 @@ public class HelloAppTest {
     public void testTest1() throws Exception {
         assert(true);
     }
+
+    @Test
+    public void testTest2() throws Exception {
+        assert(true);
+    }
 }

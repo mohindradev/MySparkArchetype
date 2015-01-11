@@ -25,7 +25,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <processorPath useClasspath="true" />
-        <module name="sparkex" />
+        <module name="sparktemplate" />
       </profile>
     </annotationProcessing>
   </component>

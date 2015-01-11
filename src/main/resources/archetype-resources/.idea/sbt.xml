@@ -1,0 +1,24 @@
+#set( $symbol_pound = '#' )
+#set( $symbol_dollar = '$' )
+#set( $symbol_escape = '\' )
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ScalaSbtSettings">
+    <option name="linkedExternalProjectsSettings">
+      <SbtProjectSettings>
+        <option name="createEmptyContentRootDirectories" value="true" />
+        <option name="externalProjectPath" value="${symbol_dollar}PROJECT_DIR${symbol_dollar}" />
+        <option name="modules">
+          <set>
+            <option value="${symbol_dollar}PROJECT_DIR${symbol_dollar}" />
+            <option value="${symbol_dollar}PROJECT_DIR${symbol_dollar}/project" />
+          </set>
+        </option>
+        <option name="resolveClassifiers" value="true" />
+        <option name="resolveSbtClassifiers" value="true" />
+        <option name="sbtVersion" value="0.13.5" />
+        <option name="useAutoImport" value="true" />
+      </SbtProjectSettings>
+    </option>
+  </component>
+</project>

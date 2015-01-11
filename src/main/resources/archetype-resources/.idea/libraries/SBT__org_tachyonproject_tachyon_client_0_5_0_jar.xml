@@ -1,0 +1,14 @@
+#set( $symbol_pound = '#' )
+#set( $symbol_dollar = '$' )
+#set( $symbol_escape = '\' )
+<component name="libraryTable">
+  <library name="SBT: org.tachyonproject:tachyon-client:0.5.0:jar">
+    <CLASSES>
+      <root url="jar://${symbol_dollar}USER_HOME${symbol_dollar}/.ivy2/cache/org.tachyonproject/tachyon-client/jars/tachyon-client-0.5.0.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://${symbol_dollar}USER_HOME${symbol_dollar}/.ivy2/cache/org.tachyonproject/tachyon-client/docs/tachyon-client-0.5.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES />
+  </library>
+</component>

@@ -5,7 +5,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://${symbol_dollar}PROJECT_DIR${symbol_dollar}/sparkex.iml" filepath="${symbol_dollar}PROJECT_DIR${symbol_dollar}/sparkex.iml" />
+      <module fileurl="file://${symbol_dollar}PROJECT_DIR${symbol_dollar}/.idea/modules/sparktemplate.iml" filepath="${symbol_dollar}PROJECT_DIR${symbol_dollar}/.idea/modules/sparktemplate.iml" />
+      <module fileurl="file://${symbol_dollar}PROJECT_DIR${symbol_dollar}/.idea/modules/sparktemplate-build.iml" filepath="${symbol_dollar}PROJECT_DIR${symbol_dollar}/.idea/modules/sparktemplate-build.iml" />
     </modules>
   </component>
 </project>

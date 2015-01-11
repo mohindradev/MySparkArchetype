@@ -34,6 +34,19 @@
       </includes>
     </fileSet>
     <fileSet filtered="true" encoding="UTF-8">
+      <directory>project/target</directory>
+      <includes>
+        <include>**/*.xml</include>
+        <include>**/*.properties</include>
+      </includes>
+    </fileSet>
+    <fileSet filtered="true" encoding="UTF-8">
+      <directory>project</directory>
+      <includes>
+        <include>**/*.properties</include>
+      </includes>
+    </fileSet>
+    <fileSet filtered="true" encoding="UTF-8">
       <directory>.idea</directory>
       <includes>
         <include>**/*.xml</include>
@@ -52,6 +65,36 @@
       </includes>
     </fileSet>
     <fileSet encoding="UTF-8">
+      <directory>project/target</directory>
+      <includes>
+        <include>**/*.xsl</include>
+        <include>**/*.</include>
+        <include>**/*.cache</include>
+        <include>**/*.css</include>
+        <include>**/*.sbt</include>
+        <include>**/*.class</include>
+      </includes>
+    </fileSet>
+    <fileSet encoding="UTF-8">
+      <directory>.idea/modules</directory>
+      <includes>
+        <include>**/*.iml</include>
+      </includes>
+    </fileSet>
+    <fileSet encoding="UTF-8">
+      <directory>project/project</directory>
+      <includes>
+        <include>**/*.cache</include>
+        <include>**/*.class</include>
+      </includes>
+    </fileSet>
+    <fileSet encoding="UTF-8">
+      <directory>project</directory>
+      <includes>
+        <include>**/*.sbt</include>
+      </includes>
+    </fileSet>
+    <fileSet encoding="UTF-8">
       <directory>.idea</directory>
       <includes>
         <include>**/*.name</include>
@@ -60,7 +103,7 @@
     <fileSet encoding="UTF-8">
       <directory></directory>
       <includes>
-        <include>sparkex.iml</include>
+        <include>build.sbt</include>
       </includes>
     </fileSet>
   </fileSets>

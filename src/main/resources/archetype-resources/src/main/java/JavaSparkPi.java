@@ -13,10 +13,6 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
- * Created by dev on 1/11/15.
- */
-
-/**
  * Computes an approximation to pi
  * Usage: JavaSparkPi [slices]
  * spark-submit --class "${package}.JavaSparkPi" --master local[2] target/${artifactId}-${version}.jar
