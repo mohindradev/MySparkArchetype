@@ -20,4 +20,7 @@ mvn archetype:generate \
 -DartifactId=your-artifactid-here \
 -Dversion=1.0-SNAPSHOT \
 -Dpackage=your.package.here
+<<<<<<< HEAD
 
+=======
+>>>>>>> FETCH_HEAD
