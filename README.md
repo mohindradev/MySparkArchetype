@@ -20,3 +20,19 @@ mvn archetype:generate \
 -Dversion=1.0-SNAPSHOT \
 -Dpackage=us.mohindra
 
+
+IF YOU ARE USING ECLIPSE change pom.xml in the generated project 
+
+FROM
+
+<build>
+<sourceDirectory>src/main</sourceDirectory>
+<testSourceDirectory>src/test</testSourceDirectory>
+...
+
+TO
+
+<build>
+<sourceDirectory>src/main/java</sourceDirectory>
+<testSourceDirectory>src/test/java</testSourceDirectory>
+...
